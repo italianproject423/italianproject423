@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:123B5D,100:00BFFF&height=210&section=header&text=DAMIAN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:123B5D,100:00BFFF&height=210&section=header&text=DAMIAN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+Python+%F0%9F%90%8D;Learning+C%2B%2B+%E2%9A%A1;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+Python+%F0%9F%90%8D;Learning+C%2B%2B+%E2%9A%A1;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=italianproject423&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<a href="https://github.com/italianproject423">
+<img src="https://img.shields.io/badge/GitHub-italianproject423-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/italianproject423?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Visit-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -26,6 +32,7 @@
 🚀 Building projects while learning
 ```
 
+I'm focused on learning programming by **actually building things**, experimenting and solving problems instead of only following tutorials.
 
 My current goal is to build a solid foundation in **Python and C++**, then use those skills for bigger projects involving AI, cybersecurity and systems.
 
@@ -35,7 +42,13 @@ My current goal is to build a solid foundation in **Python and C++**, then use t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp" height="90" />
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=py" height="90" alt="Python" />
+</a>
+
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" height="90" alt="C++" />
+</a>
 
 </div>
 
@@ -45,7 +58,9 @@ My current goal is to build a solid foundation in **Python and C++**, then use t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode,pycharm" />
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,cpp,git,github,linux,pycharm,vscode&perline=7" alt="Tools and technologies" />
+</a>
 
 </div>
 
@@ -89,15 +104,15 @@ My current goal is to build a solid foundation in **Python and C++**, then use t
 <div align="center">
 
 <a href="https://github.com/italianproject423/Xenon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=Xenon&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Xenon-JavaScript-0B0F14?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Xenon" />
 </a>
 
 <a href="https://github.com/italianproject423/SOS-led-arduino">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=SOS-led-arduino&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/SOS--led--arduino-C%2B%2B-0B0F14?style=for-the-badge&logo=arduino&logoColor=00979D" alt="SOS-led-arduino" />
 </a>
 
 <a href="https://github.com/italianproject423/Fade-In-Fade-Out">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=Fade-In-Fade-Out&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Fade--In--Fade--Out-C%2B%2B-0B0F14?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Fade-In-Fade-Out" />
 </a>
 
 </div>
@@ -132,37 +147,31 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=italianproject423&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="./output/tokyonight/stats.svg" alt="GitHub Stats" width="495" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italianproject423&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=italianproject423&theme=tokyonight&hide_border=true" />
+<img src="./output/tokyonight/contributions.svg" alt="GitHub Contributions" width="495" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=italianproject423&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="./output/tokyonight/streak.svg" alt="GitHub Streak" width="495" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🗓️ Contribution Heatmap
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=italianproject423&theme=tokyo-night&hide_border=true&area=true" />
+<img src="./output/tokyonight/contributions-heatmap.svg" alt="GitHub Contribution Heatmap" width="850" />
 
 </div>
 
@@ -197,6 +206,6 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:123B5D,100:0B0F14&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:123B5D,100:0B0F14&height=120&section=footer" width="100%" />
 
 </div>
