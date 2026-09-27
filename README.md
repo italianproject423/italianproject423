@@ -2,16 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:123B5D,100:00BFFF&height=210&section=header&text=DAMIAN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+Python+%F0%9F%90%8D;Learning+C%2B%2B+%E2%9A%A1;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+Python+%F0%9F%90%8D;Learning+C%2B%2B+%E2%9A%A1;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" alt="Typing animation" />
 
 <br>
 
 <a href="https://github.com/italianproject423">
-<img src="https://img.shields.io/badge/GitHub-italianproject423-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-italianproject423-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://github.com/italianproject423?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Visit-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Repositories-Visit-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
 
 </div>
@@ -121,7 +121,7 @@ Fork of `raw13g/raw13g.github.io`, used to experiment with a web project.
 
 **Language:** JavaScript
 
-[View Repository →](https://github.com/italianproject423/Xenon)
+<a href="https://github.com/italianproject423/Xenon">View Repository →</a>
 
 ### 🔹 SOS-led-arduino
 
@@ -129,7 +129,7 @@ Beginner Arduino project that makes an LED connected to pin 8 blink the internat
 
 **Language:** C++
 
-[View Repository →](https://github.com/italianproject423/SOS-led-arduino)
+<a href="https://github.com/italianproject423/SOS-led-arduino">View Repository →</a>
 
 ### 🔹 Fade-In-Fade-Out
 
@@ -137,7 +137,7 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 
 **Language:** C++
 
-[View Repository →](https://github.com/italianproject423/Fade-In-Fade-Out)
+<a href="https://github.com/italianproject423/Fade-In-Fade-Out">View Repository →</a>
 
 ---
 
@@ -145,11 +145,11 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-stats-light.svg">
-  <img src="./profile/github-stats-light.svg" alt="GitHub Stats" width="495">
-</picture>
+<img src="./profile/stats.svg" alt="GitHub Stats" width="495" />
+
+<br><br>
+
+<img src="./profile/top-langs.svg" alt="Top Languages" width="495" />
 
 </div>
 
@@ -159,7 +159,7 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 
 <div align="center">
 
-<img src="./profile/github-streak.svg" alt="GitHub Streak" width="495">
+<img src="./profile/streak.svg" alt="GitHub Streak" width="495" />
 
 </div>
 
@@ -172,7 +172,7 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake" width="850">
+  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake" width="850" />
 </picture>
 
 </div>
