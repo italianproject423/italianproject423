@@ -58,9 +58,7 @@ My current goal is to build a solid foundation in **Python and C++**, then use t
 
 <div align="center">
 
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,cpp,git,github,linux,pycharm,vscode&perline=7" alt="Tools and technologies" />
-</a>
 
 </div>
 
@@ -147,11 +145,11 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 
 <div align="center">
 
-<img src="./output/tokyonight/stats.svg" alt="GitHub Stats" width="495" />
-
-<br><br>
-
-<img src="./output/tokyonight/contributions.svg" alt="GitHub Contributions" width="495" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-stats-light.svg">
+  <img src="./profile/github-stats-light.svg" alt="GitHub Stats" width="495">
+</picture>
 
 </div>
 
@@ -161,17 +159,21 @@ Arduino project creating a smooth **fade in / fade out** LED effect using PWM an
 
 <div align="center">
 
-<img src="./output/tokyonight/streak.svg" alt="GitHub Streak" width="495" />
+<img src="./profile/github-streak.svg" alt="GitHub Streak" width="495">
 
 </div>
 
 ---
 
-## 🗓️ Contribution Heatmap
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="./output/tokyonight/contributions-heatmap.svg" alt="GitHub Contribution Heatmap" width="850" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
+  <img src="./profile/github-snake.svg" alt="GitHub Contribution Snake" width="850">
+</picture>
 
 </div>
 
