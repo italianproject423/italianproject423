@@ -1,1 +1,75 @@
+name: Update GitHub Profile
 
+on:
+workflow_dispatch:
+schedule:
+- cron: "17 3 * * *"
+
+permissions:
+contents: write
+
+concurrency:
+group: update-github-profile
+cancel-in-progress: false
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v6
+
+  - name: Generate profile stats
+    uses: shinpr/github-profile-stats@v0.2.0
+    id: stats
+    with:
+      username: ${{ github.repository_owner }}
+      token: ${{ github.token }}
+      profile: signal-field
+
+  - name: Copy profile stats
+    env:
+      READY_DIR: ${{ steps.stats.outputs.ready-dir }}
+    run: |
+      mkdir -p profile
+
+      cp "$READY_DIR"/signal-field-wide-dark.svg profile/github-stats.svg
+      cp "$READY_DIR"/signal-field-wide-light.svg profile/github-stats-light.svg
+
+      test -s profile/github-stats.svg
+      test -s profile/github-stats-light.svg
+
+  - name: Generate streak
+    uses: zients/github-readme-streak-stats@v2
+    with:
+      options: user=${{ github.repository_owner }}&theme=tokyonight&disable_animations=true
+      path: profile/github-streak.svg
+      token: ${{ github.token }}
+
+  - name: Generate contribution graph
+    uses: Platane/snk/svg-only@v3
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      outputs: |
+        profile/github-snake.svg
+        profile/github-snake-dark.svg?palette=github-dark
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  - name: Commit generated files
+    run: |
+      git add profile/
+
+      if git diff --cached --quiet; then
+        echo "No changes to commit."
+        exit 0
+      fi
+
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git commit -m "Update GitHub profile stats"
+      git push
+```
