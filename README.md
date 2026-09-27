@@ -34,8 +34,6 @@
 🚀 Building projects while learning
 ```
 
-I'm learning programming by **building real projects**, experimenting and solving problems instead of only following tutorials.
-
 My main focus right now is **Python and C++**, with a growing interest in cybersecurity, AI and systems.
 
 ---
