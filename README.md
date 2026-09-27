@@ -26,7 +26,6 @@
 🚀 Building projects while learning
 ```
 
-I'm focused on learning programming by **actually building things**, experimenting and solving problems instead of only following tutorials.
 
 My current goal is to build a solid foundation in **Python and C++**, then use those skills for bigger projects involving AI, cybersecurity and systems.
 
