@@ -1,68 +1,40 @@
 name: Update GitHub Profile
 
-on:
+"on":
 workflow_dispatch:
-schedule:
-- cron: "0 3 * * *"
-
-permissions:
-contents: write
 
 jobs:
 build:
 runs-on: ubuntu-latest
 
 ```
+permissions:
+  contents: write
+
 steps:
-  - name: Checkout repository
-    uses: actions/checkout@v6
+  - uses: actions/checkout@v6
 
-  - name: Create profile directory
-    run: mkdir -p profile
-
-  - name: Generate GitHub Stats
+  - name: Generate stats
     uses: stats-organization/github-readme-stats-action@v2
     with:
       card: stats
-      options: 'username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true'
+      options: username=italianproject423&show_icons=true&theme=tokyonight
       path: profile/stats.svg
       token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Generate Top Languages
+  - name: Generate top languages
     uses: stats-organization/github-readme-stats-action@v2
     with:
       card: top-langs
-      options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&hide_border=true'
+      options: username=italianproject423&layout=compact&langs_count=6&theme=tokyonight
       path: profile/top-langs.svg
       token: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Generate GitHub Streak
-    uses: DenverCoder1/github-readme-streak-stats@v1
-    with:
-      options: 'user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&disable_animations=true'
-      path: profile/streak.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate Contribution Snake
-    uses: Platane/snk/svg-only@v3
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      outputs: |
-        profile/github-snake.svg
-        profile/github-snake-dark.svg?palette=github-dark
-
-  - name: Commit generated files
+  - name: Commit cards
     run: |
       git config user.name "github-actions[bot]"
       git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
       git add profile/*.svg
-
-      if git diff --cached --quiet; then
-        echo "No changes to commit."
-        exit 0
-      fi
-
-      git commit -m "Update GitHub profile stats"
+      git commit -m "Update GitHub profile stats" || exit 0
       git push
 ```
