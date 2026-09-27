@@ -10,7 +10,11 @@
 
 </div>
 
-👨‍💻 About Me
+---
+
+## 👨‍💻 About Me
+
+```text
 👋 Hi, I'm Damian
 
 🎓 Informatics & Telecommunications student
@@ -20,20 +24,25 @@
 🤖 Interested in AI & LLMs
 🔧 Interested in PC hardware and systems
 🚀 Building projects while learning
+```
 
-I'm focused on learning programming by actually building things, experimenting and solving problems instead of only following tutorials.
+I'm focused on learning programming by **actually building things**, experimenting and solving problems instead of only following tutorials.
 
-My current goal is to build a solid foundation in Python and C++, then use those skills for bigger projects involving AI, cybersecurity and systems.
+My current goal is to build a solid foundation in **Python and C++**, then use those skills for bigger projects involving AI, cybersecurity and systems.
 
-🧠 Currently Learning
+---
+
+## 🧠 Currently Learning
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp" height="90"/>
+<img src="https://skillicons.dev/icons?i=python,cpp" height="90" />
 
 </div>
 
-🛠️ Tools & Technologies
+---
+
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
@@ -41,85 +50,86 @@ My current goal is to build a solid foundation in Python and C++, then use those
 
 </div>
 
-🎯 Interests
+---
 
-<table align="center"> <tr> <td align="center" width="180">
+## 🎯 Interests
 
-🐍
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <h3>🐍</h3>
+      <strong>Python</strong>
+      <br><br>
+      Learning programming fundamentals and building small projects.
+    </td>
+    <td align="center" width="180">
+      <h3>⚡</h3>
+      <strong>C++</strong>
+      <br><br>
+      Learning the fundamentals and exploring lower-level programming.
+    </td>
+    <td align="center" width="180">
+      <h3>🛡️</h3>
+      <strong>Cybersecurity</strong>
+      <br><br>
+      Interested in security, networking and ethical hacking.
+    </td>
+    <td align="center" width="180">
+      <h3>🤖</h3>
+      <strong>AI</strong>
+      <br><br>
+      Exploring LLMs, local AI and how AI systems work.
+    </td>
+  </tr>
+</table>
 
-Python
+---
 
-Learning programming fundamentals and building small projects.
-
-</td>
-
-<td align="center" width="180">
-
-⚡
-
-C++
-
-Learning the fundamentals and exploring lower-level programming.
-
-</td>
-
-<td align="center" width="180">
-
-🛡️
-
-Cybersecurity
-
-Interested in security, networking and ethical hacking.
-
-</td>
-
-<td align="center" width="180">
-
-🤖
-
-AI
-
-Exploring LLMs, local AI and how AI systems work.
-
-</td> </tr> </table>
-
-🚀 Projects
+## 🚀 Projects
 
 <div align="center">
 
-<a href="https://github.com/italianproject423/Xenon"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=Xenon&theme=tokyonight&hide_border=true" /> </a>
+<a href="https://github.com/italianproject423/Xenon">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=Xenon&theme=tokyonight&hide_border=true" />
+</a>
 
-<a href="https://github.com/italianproject423/SOS-led-arduino"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=SOS-led-arduino&theme=tokyonight&hide_border=true" /> </a>
+<a href="https://github.com/italianproject423/SOS-led-arduino">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=SOS-led-arduino&theme=tokyonight&hide_border=true" />
+</a>
 
-<a href="https://github.com/italianproject423/Fade-In-Fade-Out"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=Fade-In-Fade-Out&theme=tokyonight&hide_border=true" /> </a>
+<a href="https://github.com/italianproject423/Fade-In-Fade-Out">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=italianproject423&repo=Fade-In-Fade-Out&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
-🔹 Xenon
+### 🔹 Xenon
 
-Fork of raw13g/raw13g.github.io, focused on experimenting with a web project.
+Fork of `raw13g/raw13g.github.io`, used to experiment with a web project.
 
-Language: JavaScript
+**Language:** JavaScript
 
-View Repository →
+[View Repository →](https://github.com/italianproject423/Xenon)
 
-🔹 SOS-led-arduino
+### 🔹 SOS-led-arduino
 
-Beginner Arduino project that makes an LED connected to pin 8 blink the international SOS Morse code pattern.
+Beginner Arduino project that makes an LED connected to pin 8 blink the international **SOS Morse code** pattern.
 
-Language: C++
+**Language:** C++
 
-View Repository →
+[View Repository →](https://github.com/italianproject423/SOS-led-arduino)
 
-🔹 Fade-In-Fade-Out
+### 🔹 Fade-In-Fade-Out
 
-Arduino project creating a smooth LED fade in / fade out effect using PWM and conditional logic.
+Arduino project creating a smooth **fade in / fade out** LED effect using PWM and conditional logic.
 
-Language: C++
+**Language:** C++
 
-View Repository →
+[View Repository →](https://github.com/italianproject423/Fade-In-Fade-Out)
 
-📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -137,7 +147,9 @@ View Repository →
 
 </div>
 
-🏆 GitHub Achievements
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -145,7 +157,9 @@ View Repository →
 
 </div>
 
-📈 Contribution Graph
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -153,7 +167,11 @@ View Repository →
 
 </div>
 
-💻 My Journey
+---
+
+## 💻 My Journey
+
+```text
 2026
 │
 ├── 🐍 Started learning Python
@@ -170,10 +188,13 @@ View Repository →
 ├── 🤖 Exploring AI & LLMs
 │
 └── 🚀 Building my GitHub portfolio
+```
+
+---
 
 <div align="center">
 
-💡 Learn → Build → Break → Fix → Repeat
+### 💡 Learn → Build → Break → Fix → Repeat
 
 <br>
 
