@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+Python+%F0%9F%90%8D;Learning+C%2B%2B+%E2%9A%A1;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+Python+%F0%9F%90%8D;Learning+C%2B%2B+%E2%9A%A1;Learning+C+%F0%9F%92%BB;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" alt="Typing animation" />
 
 <br><br>
 
@@ -28,13 +28,14 @@
 🎓 Informatics & Telecommunications student
 🐍 Currently learning Python
 ⚡ Currently learning C++
+💻 Currently learning C
 🛡️ Interested in Cybersecurity
 🤖 Interested in AI & LLMs
 🔧 Interested in PC hardware and systems
 🚀 Building projects while learning
 ```
 
-My main focus right now is **Python and C++**, with a growing interest in cybersecurity, AI and systems.
+My main focus right now is **Python, C++ and C**, with a growing interest in cybersecurity, AI and systems.
 
 ---
 
@@ -46,10 +47,12 @@ My main focus right now is **Python and C++**, with a growing interest in cybers
 <img src="https://skillicons.dev/icons?i=py" height="90" alt="Python" />
 </a>
 
-    
-
 <a href="https://isocpp.org/">
 <img src="https://skillicons.dev/icons?i=cpp" height="90" alt="C++" />
+</a>
+
+<a href="https://en.cppreference.com/w/c">
+<img src="https://skillicons.dev/icons?i=c" height="90" alt="C" />
 </a>
 
 </div>
@@ -87,6 +90,16 @@ Learning programming fundamentals and building projects.
 **C++**
 
 Learning the fundamentals and exploring lower-level programming.
+
+</td>
+
+<td align="center" width="190">
+
+### 💻
+
+**C**
+
+Learning the fundamentals and understanding low-level programming.
 
 </td>
 
@@ -177,6 +190,13 @@ An Arduino project that creates a smooth LED **fade in / fade out** effect using
 │   ├── Loops
 │   └── Functions
 │
+├── 💻 C
+│   ├── Syntax
+│   ├── Variables
+│   ├── Conditions
+│   ├── Loops
+│   └── Functions
+│
 ├── 🛡️ Cybersecurity
 │
 ├── 🤖 AI & LLMs
@@ -192,6 +212,7 @@ An Arduino project that creates a smooth LED **fade in / fade out** effect using
 
 <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-Exploring-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 
