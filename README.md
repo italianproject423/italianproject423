@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+Python+%F0%9F%90%8D;Learning+C%2B%2B+%E2%9A%A1;Learning+C+%F0%9F%92%BB;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Informatics+Student;Learning+C%23+%F0%9F%9F%A3;Learning+Unity+%F0%9F%8E%AE;Learning+C%2B%2B+%E2%9A%A1;Learning+C+%F0%9F%92%BB;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+Projects+One+Commit+At+A+Time" alt="Typing animation" />
 
 <br><br>
 
@@ -26,16 +26,19 @@
 👋 Hi, I'm Damian
 
 🎓 Informatics & Telecommunications student
-🐍 Currently learning Python
-⚡ Currently learning C++
-💻 Currently learning C
+🟣 Currently learning C#
+🎮 Learning Unity and 2D game development
+⚡ Using C++ for robotics
+💻 Learning C at school
 🛡️ Interested in Cybersecurity
 🤖 Interested in AI & LLMs
 🔧 Interested in PC hardware and systems
 🚀 Building projects while learning
 ```
 
-My main focus right now is **Python, C++ and C**, with a growing interest in cybersecurity, AI and systems.
+My main focus right now is **C# and Unity**, with a growing interest in game development, cybersecurity, AI and systems.
+
+I also use **C++ for robotics** and continue learning **C** as part of my studies.
 
 ---
 
@@ -43,8 +46,12 @@ My main focus right now is **Python, C++ and C**, with a growing interest in cyb
 
 <div align="center">
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=py" height="90" alt="Python" />
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://skillicons.dev/icons?i=cs" height="90" alt="C#" />
+</a>
+
+<a href="https://unity.com/">
+<img src="https://skillicons.dev/icons?i=unity" height="90" alt="Unity" />
 </a>
 
 <a href="https://isocpp.org/">
@@ -63,7 +70,7 @@ My main focus right now is **Python, C++ and C**, with a growing interest in cyb
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,pycharm,vscode,arduino" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux,arduino,unity" alt="Tools" />
 
 </div>
 
@@ -75,11 +82,21 @@ My main focus right now is **Python, C++ and C**, with a growing interest in cyb
 <tr>
 <td align="center" width="190">
 
-### 🐍
+### 🟣
 
-**Python**
+**C#**
 
-Learning programming fundamentals and building projects.
+Learning C# as my main programming language and building applications and game systems.
+
+</td>
+
+<td align="center" width="190">
+
+### 🎮
+
+**Unity**
+
+Learning Unity with a focus on 2D game development and gameplay programming.
 
 </td>
 
@@ -89,7 +106,7 @@ Learning programming fundamentals and building projects.
 
 **C++**
 
-Learning the fundamentals and exploring lower-level programming.
+Using C++ for robotics projects and learning more about programming and hardware.
 
 </td>
 
@@ -99,7 +116,7 @@ Learning the fundamentals and exploring lower-level programming.
 
 **C**
 
-Learning the fundamentals and understanding low-level programming.
+Learning C at school and building a stronger understanding of low-level programming.
 
 </td>
 
@@ -110,16 +127,6 @@ Learning the fundamentals and understanding low-level programming.
 **Cybersecurity**
 
 Interested in security, networking and ethical hacking.
-
-</td>
-
-<td align="center" width="190">
-
-### 🤖
-
-**AI**
-
-Exploring LLMs and local AI systems.
 
 </td>
 </tr>
@@ -157,7 +164,7 @@ A fork of `raw13g/raw13g.github.io` used for experimenting with a web project.
 
 A beginner Arduino project that makes an LED connected to pin 8 blink the international **SOS Morse code** pattern.
 
-`C++`
+`C++ / Arduino`
 
 <a href="https://github.com/italianproject423/SOS-led-arduino">→ View repository</a>
 
@@ -165,7 +172,7 @@ A beginner Arduino project that makes an LED connected to pin 8 blink the intern
 
 An Arduino project that creates a smooth LED **fade in / fade out** effect using PWM.
 
-`C++`
+`C++ / Arduino`
 
 <a href="https://github.com/italianproject423/Fade-In-Fade-Out">→ View repository</a>
 
@@ -176,32 +183,43 @@ An Arduino project that creates a smooth LED **fade in / fade out** effect using
 ```text
 2026
 │
-├── 🐍 Python
-│   ├── Variables
+├── 🟣 C#
+│   ├── Syntax
+│   ├── Variables & Data Types
 │   ├── Conditions
 │   ├── Loops
-│   ├── Functions
+│   ├── Methods
+│   ├── Collections
+│   ├── Object-Oriented Programming
+│   ├── File Handling
 │   └── Projects
 │
+├── 🎮 Unity
+│   ├── Unity Fundamentals
+│   ├── 2D Game Development
+│   ├── GameObjects & Components
+│   ├── Physics & Collisions
+│   ├── UI
+│   ├── Animation
+│   └── Gameplay Programming
+│
 ├── ⚡ C++
-│   ├── Syntax
-│   ├── Variables
-│   ├── Conditions
-│   ├── Loops
-│   └── Functions
+│   ├── C++ Fundamentals
+│   ├── Arduino
+│   ├── Robotics
+│   └── Hardware Projects
 │
 ├── 💻 C
 │   ├── Syntax
 │   ├── Variables
 │   ├── Conditions
 │   ├── Loops
-│   └── Functions
+│   ├── Functions
+│   └── School Projects
 │
 ├── 🛡️ Cybersecurity
-│
 ├── 🤖 AI & LLMs
-│
-└── 🚀 More projects
+└── 🚀 More Projects
 ```
 
 ---
@@ -210,8 +228,9 @@ An Arduino project that creates a smooth LED **fade in / fade out** effect using
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-Learning-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-Learning-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-Robotics-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/C-Learning-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/Cybersecurity-Exploring-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
