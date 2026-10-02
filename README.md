@@ -29,7 +29,7 @@
 🟣 Currently learning C#
 🎮 Learning Unity and 2D game development
 ⚡ Using C++ for robotics
-💻 Learning C at school
+💻 Learning C 
 🛡️ Interested in Cybersecurity
 🤖 Interested in AI & LLMs
 🔧 Interested in PC hardware and systems
@@ -116,7 +116,7 @@ Using C++ for robotics projects and learning more about programming and hardware
 
 **C**
 
-Learning C at school and building a stronger understanding of low-level programming.
+Learning C and building a stronger understanding of low-level programming.
 
 </td>
 
